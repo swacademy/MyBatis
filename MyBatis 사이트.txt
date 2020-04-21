@@ -1,0 +1,13 @@
+
+
+
+
+사이트 URL : http://www.mybatis.org/
+Project URL : http://code.google.com/p/mybatis/
+Mybatis 소개(한국어) URL : http://mybatis.github.io/mybatis-3/ko/index.html
+Mybatis 사용자 메뉴얼 : http://mybatis.googlecode.com/files/MyBatis-3-User-Guide_ko.pdf
+
+
+http://blog.mybatis.org/
+http://mybatis.github.io/mybatis-3/ko/index.html
+http://www.acornpub.co.kr/book/mybatis
